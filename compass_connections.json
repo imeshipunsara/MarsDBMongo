@@ -1,0 +1,26 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "b03be50f-249e-4e79-a6be-5905ceb5693b",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1757299588800"
+        }
+      },
+      "favorite": {
+        "name": "cluster0.ullyxag.mongodb.net"
+      },
+      "savedConnectionType": "recent",
+      "connectionOptions": {
+        "connectionString": "mongodb+srv://imeshi0_db_user:cZjuIk4VqGmMX8Jv@cluster0.ullyxag.mongodb.net/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjoxLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
